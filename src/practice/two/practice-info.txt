@@ -1,0 +1,5 @@
+Data:
+Wheat price list
+
+Operation:
+To find the min and max record date for each state and also to find the min,max and avg wheat proces recorded in between those two dates

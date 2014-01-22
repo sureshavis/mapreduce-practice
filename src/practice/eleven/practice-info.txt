@@ -1,0 +1,9 @@
+input:
+user and asset usage file
+
+operation:
+Join the user and asset usage files using the user id column for the
+inner join, outer join, right outer join, left outer join and anti join operations
+
+Chapter 5:
+Reduce side joins

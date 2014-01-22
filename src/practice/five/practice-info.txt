@@ -1,0 +1,5 @@
+data:
+wheat price csv
+
+operation:
+to calculate the top five model prices from the entire records

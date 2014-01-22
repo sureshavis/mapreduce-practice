@@ -1,0 +1,8 @@
+data file:
+wheat price csv
+
+operation:
+to partition the data according to the wheat type using the partitioner
+
+chapter:
+partitioning

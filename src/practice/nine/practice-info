@@ -1,0 +1,9 @@
+data:
+wheat price csv
+
+
+operation:
+to split the input csv file by the state name using the MulltipleOutputs class 
+
+
+chapeter 4 : Binning 

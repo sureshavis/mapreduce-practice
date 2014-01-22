@@ -1,0 +1,5 @@
+Data:
+Wheat price csv
+
+operation:
+to calculate no.of records available for each market where markets are grouped by state names

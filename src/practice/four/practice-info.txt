@@ -1,0 +1,5 @@
+Data:
+Wheat price csv
+
+operation:
+filter the records of csv by regular expression and by a filter value

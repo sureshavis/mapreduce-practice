@@ -1,0 +1,10 @@
+file:
+wheat price csv
+
+operation:
+to use sort the entries of the csv by the record date using the TotalOrderPartitioner class
+	This example has two mapper class,First one just get the date field value alone and sorts it and stores it staging folder
+	and the second mapper uses the TotalOrderPartitioner and InputSampling classes to sort the record.
+	
+Chapter:4 
+TotalOrderPartitioner

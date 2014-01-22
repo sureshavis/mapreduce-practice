@@ -1,0 +1,5 @@
+Data File : 
+	wheat price statistics
+
+Operation:
+	To find the avgerage of all min , max , modal wheat prices from every state

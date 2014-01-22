@@ -1,0 +1,8 @@
+data:
+users.txt , usage.txt
+
+operation:
+to build an xml for users with attributes and also with the logged systems ip as a nodelist
+
+topic:
+structural to hierarchical

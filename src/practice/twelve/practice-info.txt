@@ -1,0 +1,10 @@
+file :
+wheat price csv and state-language file
+
+
+operation:
+using replicated join pattern, join the small file state language which should be in distributed cache 
+with the wheat price csv
+
+chapter 5:
+replicated join
